@@ -11,7 +11,7 @@
 > Simple and clean Roblox Executor using WeAreDevs_API
 
 
-![MAIN](https://media.discordapp.net/attachments/1002102573462999100/1002223506693566535/unknown.png)
+![MAIN](https://media.discordapp.net/attachments/990695801506381905/1002266391228977182/unknown.png)
 
 ## 🚀 〢 Usage
 
