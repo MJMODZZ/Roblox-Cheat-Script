@@ -298,7 +298,7 @@
             this.Controls.Add(this.panel2);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "mainpage";
-            this.Text = "cobalt.solutions | MJs Services | fff#9999 | MJMODZZ#6094";
+            this.Text = "MJs Services | MJMODZZ#6094";
             this.Load += new System.EventHandler(this.mainpage_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
