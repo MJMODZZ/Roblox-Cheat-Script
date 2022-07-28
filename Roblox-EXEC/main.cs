@@ -39,8 +39,9 @@ namespace Robloxinator_v2
         private void siticoneButton2_Click(object sender, EventArgs e)
         {
             LuaScriptList.Items.Clear();//Leert alle items in der LuaScriptList
-            Functions.PopulateListBox(LuaScriptList, "./Scripts", "*.txt"); //Erkennt alle .txt dateien als lua scripts
-            Functions.PopulateListBox(LuaScriptList, "./Scripts", "*.js"); //Erkennt alle .lua dateien als lua scripts
+            Functions.PopulateListBox(LuaScriptList, "./Scripts", "*.txt"); // Detect all .txt files as script
+            Functions.PopulateListBox(LuaScriptList, "./Scripts", "*.js"); // Detect all .js files as script
+            Functions.PopulateListBox(LuaScriptList, "./Scripts", "*.lua"); // Detect all .lua files as script
         }
 
         private void LuaScriptList_SelectedIndexChanged(object sender, EventArgs e)
