@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to cookies clean winforms GUI template 👋</h1>
+<h1 align="center">Welcome to MJs Roblox Executor 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" >
@@ -25,7 +25,7 @@
 ## 📃 〢 How to add the DLL Files
 
 > [FastColoredTextBox.dll](https://github.com/MJMODZZ/Roblox-Executor/raw/main/Assets/FastColoredTextBox.dll) <br>
-> [Siticone.Desktip.UI.dll](https://github.com/MJMODZZ/Roblox-Executor/raw/main/Assets/Siticone.Desktop.UI.dll) <br>
+> [Siticone.Desktop.UI.dll](https://github.com/MJMODZZ/Roblox-Executor/raw/main/Assets/Siticone.Desktop.UI.dll) <br>
 > [WeAreDevs_API.dll](https://github.com/MJMODZZ/Roblox-Executor/raw/main/Assets/WeAreDevs_API.dll) <br>
 
 ```c
