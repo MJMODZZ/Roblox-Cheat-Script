@@ -1,5 +1,5 @@
 -- GUI Loadstring --
-local Library = loadstring(game:HttpGet(""))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/MJMODZZ/Roblox-Cheat-Script/main/AGAC%20Scripts/%5BAGAC%5D%20MultiGUI.lua"))()
 
 -- GUI Theme --
 local Window = Library.CreateLib("All Games All Cheats", "AllGamesAllCheats")
